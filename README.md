@@ -45,4 +45,4 @@ Follow the steps below to set up and run the Blog App locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Sandip1902/Blog-App.git
+git clone https://github.com/Sandip1902/blog.git
