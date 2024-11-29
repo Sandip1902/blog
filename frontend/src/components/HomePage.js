@@ -10,7 +10,7 @@ const HomePage = () => {
   const fetchPosts = async () => {
     setLoadingPosts(true);
     try {
-      const response = await fetch("http://localhost:3000/api/v1/getAllposts", {
+      const response = await fetch("https://blog-budi.onrender.com/api/v1/getAllposts", {
         method: "GET",
         headers: {
           "Content-Type": "application/json",
