@@ -35,7 +35,7 @@ const HomePage = () => {
 
     setLoading(true);
     try {
-      const response = await fetch("http://localhost:3000/api/v1/createPost", {
+      const response = await fetch("https://blog-budi.onrender.com/api/v1/createPost", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
