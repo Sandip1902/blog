@@ -2,6 +2,8 @@
 
 Welcome to the **Blog App**! This full-stack application allows users to create, read, edit, and delete blog posts. Built with the MERN stack (MongoDB, Express, React, and Node.js), it features  a simple blog management system.
 
+## Live Demo :- [Click here to go live](https://blog-budi.onrender.com/)
+
 ## Features
 
 - **Create, Edit, and Delete Blog Posts**: Users can easily manage their blog posts.
